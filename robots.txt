@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cocktail-6h5.pages.dev/sitemap.xml
